@@ -4,8 +4,9 @@
 
 <br/><br/>
 <br/><br/>
+<br/><br/>
 
-# Optimal region design to foster industrial diversification
+# Optimal region design to foster industrial diversification.
 
 Daniel E. Restrepo<sup>1,2</sup>, Juan C. Duque<sup>2</sup>, Richard Church<sup>3</sup>
 
