@@ -1,5 +1,5 @@
-<img src="figs/WB_logo.png" alt="World Bank logo" align="left"  width=300>
-<img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" width=300>
+<img src="figs/WB_logo.png" alt="World Bank logo" align="left"  width=250>
+<img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" width=250>
 <img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="left" width=200>
 
 <br/><br/>
