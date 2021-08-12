@@ -2,6 +2,8 @@
 <img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" width=300>
 <img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="left" width=200>
 
+<br/><br/>
+<br/><br/>
 
 # Optimal region design to foster industrial diversification
 
